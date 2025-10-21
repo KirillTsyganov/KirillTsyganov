@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kirill Tsyganov
-- :computer: I have started my data career as a bioinformatician working mostly on Genomics data
-- :sunflower: I continued to evolved and started apply my knowledge and skills to financial services domain
-- :briefcase: Currently I work at [AustralianSuper](https://www.australiansuper.com), an [industry superannuation fund](https://en.wikipedia.org/wiki/Industry_superannuation_fund)
-- 👀 I’m interested in tackling hard business problems and finding data solutions
+- :computer: I have started my data career as a bioinformatician working with high-throughput sequencing data (Genomics)
+- :sunflower: I continued to evolve and transferred my knowledge and skills to financial services domain
+- :briefcase: Currently I am Senior Machine Learning Engineer working at [AustralianSuper](https://www.australiansuper.com), an [industry superannuation fund](https://en.wikipedia.org/wiki/Industry_superannuation_fund)
+- 👀 I’m interested in tackling hard business problems, building data products and learning new things through the data lens.
 - 🌱 In my spare time, I tinker with tech and electronics
 
 
